@@ -24,13 +24,13 @@ The hypothesis is that increases in bitcoin search interest are directly correla
 
 ## Visualizations
 
-![Price over time](images\BTCPriceGraph.png)
-![Price over time](images\BTCSearchGraph.png)
-![Price over time](images\BTCPriceGraphWeeklyDerivative.png)
-![Price over time](images\CorrelationFacets.png)
-![Price over time](images\ValueFacets.png)
-![Price over time](images\PriceSearchesCorrelation.png)
-![Price over time](images\DerivativeSearchesCorrelation.png)
+![Price over time](images/BTCPriceGraph.png)
+![Price over time](images/BTCSearchGraph.png)
+![Price over time](images/BTCPriceGraphWeeklyDerivative.png)
+![Price over time](images/CorrelationFacets.png)
+![Price over time](images/ValueFacets.png)
+![Price over time](images/PriceSearchesCorrelation.png)
+![Price over time](images/DerivativeSearchesCorrelation.png)
 
 ## Conclusion
 
